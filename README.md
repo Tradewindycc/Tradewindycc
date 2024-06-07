@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Tradewindycc
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on 
+- 👋 Hi, I’m @Checheng Yu
+- 👀 I’m interested in RL and embodied AI.
+- 🌱 I’m currently learning DL/ML.
 - 📫 How to reach me: ycc2366582449@outlook.com
 
 <!---
