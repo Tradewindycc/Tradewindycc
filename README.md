@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Checheng Yu
-- 👀 I’m interested in RL and embodied AI.
-- 🌱 I’m now looking for Phd position in Robotics/RL.
+- 👀 I’m interested in RL and Robotics, now doing research about embodied AI.
+- 🌱 I’m now looking for PhD position in Robotics/RL.
 - 📫 How to reach me: ycc2366582449@outlook.com
 
 <!---
