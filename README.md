@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Checheng Yu
 - 🌱 I’m interested in RL and Robotics, now doing research about **Dexterous** **Manipulation** 👋 and Robot **Tactile** Sensing.
-- 👀 I’m now an incoming PhD in Robotics/Embodied AI, feel free to contact me.
+- 👀 I’m now an incoming PhD in HKU, feel free to contact me.
 - 📫 How to reach me: ycc2366582449@outlook.com
 
 <!---
