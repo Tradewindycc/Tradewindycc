@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Checheng Yu
 - 🌱 I’m interested in Robotics and EAI, now doing research about **Manipulation** 👋 and Robot **Tactile** Sensing.
-- 👀 I’m now a PhD in IDS HKU, supervise by Hongyang Li and Ping Luo, feel free to contact me.
+- 👀 I’m now a PhD in IDS at HKU, supervised by Hongyang Li and Ping Luo, feel free to contact me.
 - 📫 How to reach me: ycc2366582449@outlook.com
 
 <!---
